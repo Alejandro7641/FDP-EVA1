@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_2_DATOS"/>
+        <attribute name="authors" value="anago"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 04:48:18 p. m."/>
+        <attribute name="created" value="YW5hZ287U0FMQVMtR09NRVo7MjAyNS0wOC0yNjswNDoyMjoxMCBwLiBtLjsyNzg3"/>
+        <attribute name="edited" value="YW5hZ287U0FMQVMtR09NRVo7MjAyNS0wOC0yNjswNDo0ODoxOCBwLiBtLjsyOzI5MTI="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;ALEJANDRO NU&#209;EZ&quot;" newline="True"/>
+            <output expression="1000" newline="True"/>
+            <output expression="52.3" newline="True"/>
+            <output expression="TRUE" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
